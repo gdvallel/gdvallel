@@ -1,4 +1,4 @@
-# Gabrielle Valle
+# Gabrielle
 
 Front-end engineer. React & TypeScript enthusiast.
 Professional button clicker since 2021.
